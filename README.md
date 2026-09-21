@@ -1,7 +1,5 @@
 # nilm-case-cad
 
-![Main Assembly](main_assembly.png)
-
 CAD files, hardware specifications, and assembly details for a waterproof MicroMoth enclosure developed for acoustic Non-Intrusive Load Monitoring (NILM).
 
 ## Bill of Materials
